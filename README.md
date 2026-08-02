@@ -269,6 +269,14 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
+## 👤 Author
+
+**Prithvi Raj Mukhiya**
+B.Tech in Electronics & Communication Engineering, IIIT Kota
+Passionate about Machine Learning, Deep Learning, NLP, and building real-world GenAI applications.
+
+---
+
 ## 🙏 Acknowledgements
 
 - [LangChain](https://www.langchain.com/) — Agent framework
