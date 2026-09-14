@@ -19,7 +19,7 @@
 
 ## 📖 Overview
 
-**AI-Search-Agent** is an agentic AI application that intelligently decides *how* to answer a user's query instead of relying on a single static data source. Built with **LangChain Agents** and powered by **Groq LLM**, the agent reasons about each query and automatically routes it to the most relevant tool — whether that's Wikipedia for general knowledge, arXiv for research papers, DuckDuckGo for real-time information, or a custom **RAG pipeline** over LangSmith documentation.
+**Agentic Research Assistant** is an agentic AI application that intelligently decides *how* to answer a user's query instead of relying on a single static data source. Built with **LangChain Agents** and powered by **Groq LLM**, the agent reasons about each query and automatically routes it to the most relevant tool — whether that's Wikipedia for general knowledge, arXiv for research papers, DuckDuckGo for real-time information, or a custom **RAG pipeline** over LangSmith documentation.
 
 The entire experience is wrapped in a clean, interactive **Streamlit** chat interface.
 
