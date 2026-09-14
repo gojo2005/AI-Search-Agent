@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 AI-Search-Agent
+# 🔍Agentic Research Assistant — Multi-Tool AI System
 
 ### An Intelligent Agentic AI Search Assistant Powered by LangChain & Groq
 
